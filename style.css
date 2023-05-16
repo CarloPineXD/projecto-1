@@ -1,0 +1,45 @@
+.p_inline{
+    width: 200px;
+    display: inline;
+    margin-right: 20px;
+}
+
+.carrousel img{
+    width: 30%;
+    display: inline-block;
+    padding: 10px;
+}
+
+#none{
+    display: none;
+}
+
+#hidden{
+    visibility: hidden;
+}
+
+.carrousel{
+    border: 5px;
+}
+
+.bonito{
+    background-color: blueviolet;
+}
+
+.bonito:hover{
+    background-color: turquoise;
+}
+
+.contenedor_morado{
+    width: 10%;
+    height: 200px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+.contenedor_morado:hover{
+    width: 10%;
+    height: 200px;
+    background-color: turquoise;
+    display: inline-block;
+}
